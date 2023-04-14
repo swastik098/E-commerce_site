@@ -13,11 +13,14 @@ const FeaturedProducts = ({ type }) => {
       <div className="top">
         <h1>{type} products</h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum
-          suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-          lacus vel facilisis labore et dolore magna aliqua. Quis ipsum
-          suspendisse ultrices gravida. Risus commodo viverra maecenas.
+          Funstore is an exciting online shopping destination that offers a wide
+          range of products to suit every taste and budget. From trendy fashion
+          items and accessories to the latest gadgets and electronics, Funstore
+          has something for everyone. With a user-friendly interface and easy
+          navigation, shopping on Funstore is a breeze. Customers can enjoy a
+          hassle-free shopping experience, secure payment options, and fast
+          delivery right to their doorstep. So why wait? Visit Funstore today
+          and discover the fun of shopping online!
         </p>
       </div>
       <div className="bottom">

@@ -24,25 +24,25 @@ const Footer = () => {
         <div className="item">
           <h1>About</h1>
           <span>
-            Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit
-            amet conse ctetur adipisicing elit, seddo eiusmod tempor incididunt
-            ut labore etdolore.
+            Funstore is a one-stop-shop for all your shopping needs, and its
+            website is designed with the user in mind. The homepage features a
+            sleek layout, easy navigation, and eye-catching visuals that make
+            the shopping experience fun and enjoyable.
           </span>
         </div>
         <div className="item">
           <h1>Contact</h1>
           <span>
-            Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore. Lorem ipsum dolor sit
-            amet conse ctetur adipisicing elit, seddo eiusmod tempor incididunt
-            ut labore etdolore.
+            Funstore is a one-stop-shop for all your shopping needs, and its
+            website is designed with the user in mind. The homepage features a
+            sleek layout, easy navigation, and eye-catching visuals that make
+            the shopping experience fun and enjoyable.
           </span>
         </div>
       </div>
       <div className="bottom">
         <div className="left">
-          <span className="logo">Lamastore</span>
+          <span className="logo">FUNSTORE</span>
           <span className="copyright">
             © Copyright 2023. All Rights Reserved
           </span>
